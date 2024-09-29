@@ -19,6 +19,62 @@
 
 ### note
 
+[인코덤](https://incodom.kr/Mutational_signature)
+
+[인간 암에서 돌연변이 서명의 레퍼토리](https://www.nature.com/articles/s41586-020-1943-3)
+
+[COSMIC 암 시그니처](https://cancer.sanger.ac.uk/signatures/)
+
+암의 Mutational Signatures는 특정 돌연변이 패턴을 통해 암의 발생 원인과 진행 과정을 이해하는 데 중요한 역할을 합니다. Wellcome Sanger Institute의 COSMIC (Catalogue Of Somatic Mutations In Cancer) 프로젝트는 이러한 돌연변이 시그니처를 체계적으로 분석하고 있습니다¹.
+
+### Mutational Signatures란?
+Mutational Signatures는 암세포의 유전체에서 발견되는 특정 돌연변이 패턴을 의미합니다. 각 시그니처는 특정 돌연변이 과정에 의해 생성된 고유한 돌연변이 유형의 조합으로 구성됩니다. 이러한 시그니처는 암의 발생 원인, 예를 들어 흡연, 자외선 노출, DNA 복구 결함 등과 관련이 있을 수 있습니다¹.
+
+### 주요 특징
+1. **돌연변이 유형**: Mutational Signatures는 주로 단일 염기 치환(Single Base Substitutions, SBS), 이중 염기 치환(Double Base Substitutions, DBS), 삽입 및 결실(Insertions and Deletions, Indels) 등의 돌연변이 유형으로 분류됩니다.
+2. **발생 원인**: 각 시그니처는 특정 발암 물질이나 돌연변이 유발 요인과 연관될 수 있습니다. 예를 들어, 흡연은 특정한 SBS 패턴을 유발하며, 자외선 노출은 다른 유형의 돌연변이를 유발할 수 있습니다¹.
+3. **암 유형**: 특정 Mutational Signatures는 특정 암 유형에서 더 자주 발견됩니다. 예를 들어, BRCA1/2 유전자 돌연변이는 유방암과 난소암에서 흔히 발견됩니다¹.
+
+### 활용
+Mutational Signatures는 암의 조기 진단, 예후 예측, 맞춤형 치료법 개발 등에 활용될 수 있습니다. 예를 들어, 특정 시그니처가 발견된 환자는 해당 돌연변이 과정에 맞춘 치료법을 적용받을 수 있습니다¹.
+
+더 자세한 정보는 [COSMIC Mutational Signatures](https://cancer.sanger.ac.uk/signatures/) 웹사이트에서 확인할 수 있습니다. 궁금한 점이 있으면 언제든지 물어보세요!
+
+원본: Copilot과의 대화, 2024. 9. 29.
+(1) COSMIC | Mutational Signatures - Wellcome Sanger Institute. https://cancer.sanger.ac.uk/signatures/.
+(2) COSMIC | Signatures of Mutational Processes in Human Cancer - Wellcome Sanger Institute. https://cancer.sanger.ac.uk/signatures/signatures_v2/.
+(3) COSMIC | Catalogue of Somatic Mutations in Cancer - Wellcome Sanger Institute. https://cancer.sanger.ac.uk/cosmic.
+(4) COSMIC cancer database. https://www.sanger.ac.uk/tool/cosmic/.
+(5) COSMIC | Mutational Signatures Downloads - Wellcome Sanger Institute. https://cancer.sanger.ac.uk/signatures/downloads/.
+(6) undefined. https://cancer.sanger.ac.uk.
+
+[Copilot](https://www.bing.com/chat)
+
+[유전체 변이를 이용한 암맞춤 치료 연구 Development of personalized cancer therapy using novel genetic mutations ](https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO202100013259#;)
+
+□ 연구개요
+세포생존에 필요한 필수유전자 및 구성유전자의 암세포 특이적 변이를 찾아내고, 이를 타겟으로 한 개인맞춤형 유전자치료의 새로운 접근방법을 제시하는 것을 최종 목표로 한다. DB의 데이터 마이닝을 통해 얻어진 정보를 종합하여 세포에 필요한 필수유전자(essential genes) 및 구성유전자(constitutive genes)의 후보군을 도출하고 후보유전자 중 개별 암세포주 내에 존재하는 과오돌연변이(missense mutation) 뿐만아니라 침묵돌연변이(silent mutation)를 타겟으로 표적치료의 가능성을 in vitro 및 in vivo, 암환자 유래 샘플에서 검증하고자 한다. 또한 암환자유래 샘플의 유전자 분석을 통해 새로운 바이오마커를 발굴하고 그 기능을 밝히는 것을 목표로 한다.
+
+□ 연구 목표대비 연구결과
+1) 암유전체 DB 데이터를 이용한 후보군 도출
+■ 세포생존 필수 유전자 및 구성유전자 문헌조사
+■ public DB를 이용한 유전체 분석을 통한 후보군 도출
+2) 암세포주 내 표적치료 가능성 검증
+■ TCGA와 ICGC를 이용한 암세포주별 변이 분석 및 빈도 확인
+■ 타겟 변이를 이용한 세포내 기능 분석 및 타겟 검증
+■ 동물 모델을 이용한 타겟 검증
+3) 환자유래샘플을 이용한 암맞춤치료 기술 확보
+■ 유방암 환자유래샘플의 유전체 검사
+■ 유전체 분석을 통한 타겟 선정
+■ 개인별 염기서열기반 새로운 바이오마커 도출 및 기능분석
+■ PDC(patient-derived cell)를 이용한 암맞춤 치료를 위한 최적화 모델 수립
+
+□ 연구개발결과의 중요성
+■ 선별한 세포생존에 필요한 유전자 중 개인별 암 유전자 변이에 기반하여 개인별 맞춤 유전자 치료가 가능
+■ 침묵돌연변이의 타겟가능성 검증 및 개인맞춤치료를 위한 새로운 접근법 제시 및 바이오마커 개발 가능
+■ 추적 맞춤 치료 모델을 완성함으로써 향후 다양한 난치 종양 치료에 있어서 환자 개개인뿐만 아니라 주어진 한 환자에서 암의 진행 혹은 치료 후 변화 암의 변화까지 고려한 맞춤 치료를 시행하는 모델을 구축
+■ 개인별 유전체변이의 규명은 종양진화와 암화과정의 분자적 기작에 대한 이해를 넓혀 새로운 신약 타겟 발굴 및 치료법 개발의 시발점이 됨
+
 암 바이오마커 
 
 [gemini](https://gemini.google.com/)
