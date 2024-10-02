@@ -19,7 +19,14 @@
 
 [주요 주제 1 : 전체 게놈의 범암 분석](https://www.nature.com/collections/afdejfafdb)
 
+
 암은 세포가 주요 암 유전자에서 체세포 돌연변이를 획득하여 발생하는 게놈 질환입니다. 이러한 돌연변이는 세포 성장 및 조직 환경과의 상호 작용을 조절하는 데 관여하는 경로를 변경합니다. 최근까지 암 게놈에 대한 연구는 단백질 코딩 유전자에 집중되어 있었는데, 이 유전자들은 게놈의 1%에 불과했습니다. 이 문제를 해결하기 위해 ICGC/TCGA 전장 유전체 암(PCAWG) 프로젝트는 38개의 서로 다른 종양 유형에 걸쳐 2,600개 이상의 원발암 및 일치하는 정상 조직에 대한 전체 게놈 염기서열 분석 및 통합 분석을 수행했습니다. 이 연구는 암에서 대규모 구조적 돌연변이가 수행하는 광범위한 역할을 밝히고, 유전자 조절 영역에서 이전에 알려지지 않은 암 관련 돌연변이를 식별하고, 여러 암 유형에 걸친 종양 진화를 추론하고, 체세포 돌연변이와 전사체 간의 상호 작용을 조명하고, 돌연변이 과정을 조절하는 생식세포 유전 변이의 역할을 연구했습니다. 이 컬렉션은 PCAWG 컨소시엄에서 수행한 핵심 분석 세트를 설명하는 문서로 구성되어 있으며, 이 레거시 데이터 세트를 더 자세히 탐색하려는 사람들에게 유용한 데이터, 도구 및 기타 리소스를 소개합니다.
+
+[Cancer](https://www.nature.com/collections/jjfeecdbic)
+[Cancer treatment](https://www.nature.com/collections/eiiiacjcgf)
+[Cancer vaccines](https://www.nature.com/collections/dfajababaj)
+[Cancer research](https://www.nature.com/collections/cbhjcefecb)
+
 
 [주요 논문 1 : 2,658개 암의 진화 역사](https://www.nature.com/articles/s41586-019-1907-7)
 
