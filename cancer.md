@@ -195,3 +195,10 @@ Myxosarcoma (원시 배아 결합 조직)
 ### paper
 
 https://www.nature.com/articles/s41467-021-26213-y
+
+
+### 
+
+[암 생물학에서의 세포 기반 컴퓨터 모델링에 대한 검토](https://ascopubs.org/doi/10.1200/CCI.18.00069)
+
+[TCGA](https://portal.gdc.cancer.gov/)
