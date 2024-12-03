@@ -2,6 +2,8 @@
 
 뇌전도, electroencephalogram, electroencephalography
 
+![MNE 워크플로](https://mne.tools/stable/_images/flow_diagram.svg)
+
 ## 목차
 
 뇌파란 무엇인가?
@@ -113,4 +115,9 @@ EEG 데이터 프로토콜의 구성 요소
 
 ## 참고
 
+[MNE](https://mne.tools/stable/index.html)
+
+[MNE 커뮤니티](https://mne.discourse.group/top)
+
 [유튜브 강의: EEG Analysis using MATLAB](https://www.youtube.com/watch?v=Nq2S_VK_7jI)
+
